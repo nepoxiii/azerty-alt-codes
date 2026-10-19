@@ -92,3 +92,9 @@ Permet notamment de générer facilement une puce avec **`Alt + è = •`**, ain
 2. Tapez `shell:startup` et validez par Entrée.
 3. Créez et déposez un raccourci vers `alt + è = •.ahk` dans ce dossier.
 Le script démarrera automatiquement à chaque ouverture de session.
+
+### 🎮 Jeux vidéo & Anti-cheat (THE FINALS)
+Pour les jeux dont l'anti-triche bloque AutoHotkey (comme *THE FINALS* / Easy Anti-Cheat), le script `watch_the_finals.vbs` est inclus :
+- Il ferme AutoHotkey en arrière-plan dès que le jeu démarre.
+- Il le relance automatiquement dès que vous quittez le jeu.
+*(Pour l'activer au démarrage de Windows, déposez également un raccourci vers `watch_the_finals.vbs` dans `shell:startup`).*
